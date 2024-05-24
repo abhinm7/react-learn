@@ -10,6 +10,8 @@ function App() {
   return (
     <>
      <h1 className='text-3xl bg-green-500 p-3 rounded' >vite with tailwind</h1>
+     <Card username="abhinm"/> 
+     <Card username="vijay" post="staff engg."/> 
      <Card/> 
     </>
   )
